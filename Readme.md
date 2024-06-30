@@ -25,9 +25,9 @@
 ***
 
 ### **长板速查:**
-- 研究人际交往方面的问题
-- 对一个想法进行高效规划
-- 写代码
+* 研究人际交往方面的问题
+* 对一个想法进行高效规划
+* 写代码
 
 ***
 
@@ -36,16 +36,16 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 </left>
 
----
+***
 
 ### **近期目标:**
-[doing] 在暑假学会Socket编程(Python套接字).
-[doing] GitHub公开仓库填10个作品.
-[doing] GitHub建一个工程项目,拉到1个合伙人(python).
-[doing] 初二稳定在年级前六名.
+* [doing] 在暑假学会Socket编程(Python套接字).
+* [doing] GitHub公开仓库填10个作品.
+* [doing] GitHub建一个工程项目,拉到1个合伙人(python).
+* [doing] 初二稳定在年级前六名.
 
----
+***
 
 ### **联系方式:**
-- GitHub主页:https://github.com/sjt-2024/
-- 邮箱:Asjt2024@outlook.com(寒暑假及节假日上线)
+* GitHub主页:[https://github.com/sjt-2024/](https://github.com/sjt-2024/)
+* 邮箱:Asjt2024@outlook.com
