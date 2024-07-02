@@ -31,15 +31,19 @@
 
 ***
 
+### **我的热爱:**
+* JayChou
+* 学习科学知识
+* 写代码,目前专注于Python
+* 闲暇时骑自行车
+* Minecraft
+
+***
+
 ### **语言能力:**
 <a href="https://www.python.org" target="_blank">
     <img src="https://images.sj33.cn/uploads/202005/7-200525101140K8.png" alt="python" width="125" height="100">
 </a>
-
-***
-
-### **总体评价:**
-![SJT的统计卡片](https://github-readme-stats.vercel.app/api?username=sjt-2024&?&?theme=tokyonight&show_icons=true)
 
 ***
 
