@@ -1,8 +1,7 @@
-# [![欢迎来到时金韬的主页](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&random=false&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%97%B6%E9%87%91%E9%9F%AC%E7%9A%84%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
-
+# [![欢迎来到SJT的主页](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0SJT%E7%9A%84%E4%B8%BB%E9%A1%B5!)](https://github.com/sjt-2024)
 ### **个人简介:**
 
-#### 名字: 时金韬
+#### 名字: SJT
 
 #### 生日:2010年9月下旬
 
@@ -45,6 +44,7 @@
 * 安全着陆
 * 学习科学知识
 * Python
+* 逛Github
 * 深夜奋战11点
 * Minecraft
 
@@ -58,10 +58,10 @@
 ***
 
 ### **近期目标:**
-- [Doing] GitHub公开仓库填10个作品.
-- [Give Up] GitHub建一个工程项目.
+- [ ] GitHub公开仓库填10个作品.
 - [x] **拉到1个合伙人(Python)**.
-- [Doing] 初二稳定在年级前五名.
+- [ ] 初二稳定在年级前五名.
+- [ ] 学会社交技巧
 
 ***
 
@@ -73,9 +73,9 @@
 ### **联系方式:**
 Github主页:
 <a href="https://github.com/sjt-2024" target="_blank">
-    <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.9B4NoA0XTQUhk62iCKkCdQHaH7?rs=1&pid=ImgDetMain" alt="Github" width="50" height="50">
+    <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.9B4NoA0XTQUhk62iCKkCdQHaH7?rs=1&pid=ImgDetMain" alt="Github" width="25" height="25">
 </a>
 <br>
 Outlook: Asjt2024@outlook.com
 <br>
-###### 更新时间: 2024.7.29
+###### 更新时间: 2024.8.3
