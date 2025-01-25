@@ -1,0 +1,143 @@
+:root {
+    --tit-color: #3976c5de;
+    --s-color-secondary-container: #39c5bb;
+    --s-color-on-surface-variant: #46464f;
+}
+
+body {
+    /* 星源样式 */
+    padding: 0;
+    margin: 0;
+    background: url(../assets/bg.png) center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #222;
+    scroll-behavior: smooth;
+    --text: #f2f2f2;
+    overflow-y: scroll;
+}
+
+a {
+    color: var(--tit-color);
+    text-decoration: none;
+}
+
+s-divider {
+    --s-color-outline-variant: #39c5bb; 
+}
+
+.top {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.top-title {
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-size: 32px;
+    color: #39c5bb;
+}
+
+.basic {
+    display: grid;
+    max-width: 100vw;
+}
+
+.card {
+    display: block;
+    place-items: left;
+}
+
+.card > s-card {
+    display: block;
+    margin: 15px 0 15px 40px;
+    max-width: 100vw;
+    width: 600px;
+    height: 380px;
+    text-align: left;
+    background: #222;
+    color:#fff;
+    opacity: 0.8;
+    overflow-y: scroll;
+    transition: background 0.3s ease-in-out;
+}
+
+.card > s-card:hover{
+    background: #03504c;
+}
+
+.main {
+    margin-top: 20px;
+    display: inline;
+}
+
+/* card`s body */
+.body {
+    margin: 10px;
+}
+
+.show {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-tit{
+    font-size: 19px;
+    text-align: left;
+}
+
+.cls-tit {
+    font-size: 39px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: var(--tit-color);
+}
+
+s-icon {
+    width: 100px;
+    height: 100px;
+    margin: 10px 20px 10px 20px;
+}
+
+s-chip {
+    margin: 10px 20px 10px 20px;
+    font-size: 25px;
+}
+
+s-checkbox {
+    color:#f2f2f2;
+}
+
+.item {
+    display: block;
+    margin-left: 40px;
+}
+
+.bottom .footer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #222;
+    margin-top: 5px;
+}
+
+.ft-left,.ft-center {
+    padding-top: 10px;
+    color:var(--text);
+}
+
+.ft-left {
+    padding-left: 10px;
+}
+
+.ft-center {
+    margin-right: 50px;
+}
+
+/* 彩蛋:#39c5bb */
